@@ -9,7 +9,7 @@ This repository contains all the learning tutorials, resources, and practical ex
 ## 🎯 Purpose
 
 The main objectives of this repository are to:
-- Document QA learning journey and best practices
+- Document the QA learning journey and best practices
 - Share practical tutorials and hands-on exercises
 - Provide resources for various QA tools and technologies
 - Build a reference guide for testing methodologies
