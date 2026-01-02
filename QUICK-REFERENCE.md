@@ -271,11 +271,13 @@ Email: ^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$
 
 Phone (US): ^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$
 
-URL: ^https?://[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}
+URL (basic): ^https?://[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}(/.*)?$
+Note: This is a simplified version for basic validation
 
 ZIP Code (US): ^\d{5}(-\d{4})?$
 
-Credit Card: ^(?:4[0-9]{12}(?:[0-9]{3})?|5[1-5][0-9]{14})$
+Credit Card (Visa/Mastercard only): ^(?:4[0-9]{12}(?:[0-9]{3})?|5[1-5][0-9]{14})$
+Note: Add patterns for Amex (^3[47][0-9]{13}$) and other cards as needed
 
 Date (YYYY-MM-DD): ^\d{4}-\d{2}-\d{2}$
 

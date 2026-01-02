@@ -366,6 +366,15 @@ Test Case ID: TC_SEC_001
 Module: Security
 Test Case Title: SQL Injection test on login
 Preconditions: User is on login page
+
+⚠️ IMPORTANT WARNING ⚠️
+This test case is for EDUCATIONAL purposes only.
+Only perform security testing on:
+- Systems you own
+- Systems you have written authorization to test
+- Dedicated practice/test environments
+Unauthorized testing may be illegal and unethical.
+
 Test Steps:
   1. Enter "admin' OR '1'='1" in username
   2. Enter any password

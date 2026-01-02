@@ -230,16 +230,18 @@ def test_invalid_login(driver):
     error_message = login_page.get_error_message()
     assert "Username and password do not match" in error_message
 
-def test_add_product_to_cart(driver):
-    """Test adding a product to cart"""
+@pytest.fixture
+def logged_in_driver(driver):
+    """Helper fixture to provide a logged-in driver"""
     driver.get("https://www.saucedemo.com/")
-    
-    # Login first
     login_page = LoginPage(driver)
     login_page.login("standard_user", "secret_sauce")
-    
+    return driver
+
+def test_add_product_to_cart(logged_in_driver):
+    """Test adding a product to cart"""
     # Add product to cart
-    products_page = ProductsPage(driver)
+    products_page = ProductsPage(logged_in_driver)
     assert products_page.is_loaded()
     
     initial_count = products_page.get_cart_items_count()
