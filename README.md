@@ -16,3 +16,19 @@ The main objectives of this repository are to:
 - Build a reference guide for testing methodologies
 - Help others learn and grow in the QA field
 
+## 👤 Author
+
+**Pooja**
+- GitHub: [@achpooja](https://github.com/achpooja)
+
+## 📝 License
+
+This repository is maintained for educational purposes. Feel free to use the content for learning and reference.
+
+## 🌟 Acknowledgments
+
+Thanks to the QA community for continuous learning and knowledge sharing!
+
+---
+
+*Happy Learning and Testing!* 🧪✨
