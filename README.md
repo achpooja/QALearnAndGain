@@ -84,6 +84,23 @@ Defines the testing process and activities.
 
 ---
 
+## ✅ Verification vs Validation
+
+| Verification | Validation |
+|-------------|-----------|
+| Are we building the product right? | Are we building the right product? |
+| Static testing | Dynamic testing |
+| No code execution | Code execution required |
+| Reviews and inspections | Functional and system testing |
+
+**Example:**
+- Verification: Reviewing requirement documents  
+- Validation: Testing the actual application  
+
+---
+
+
+
 ## 👤 Author
 
 **Pooja**
