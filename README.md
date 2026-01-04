@@ -16,6 +16,28 @@ The main objectives of this repository are to:
 - Build a reference guide for testing methodologies
 - Help others learn and grow in the QA field
 
+
+## 🎯 Topics
+
+# 1. 🧪 Software Testing Basics
+
+Software Testing is a fundamental process in software development that ensures an application meets its requirements and works as expected. It helps in delivering high-quality, reliable, and secure software.
+
+---
+
+## 📌 What is Software Testing?
+
+**Software Testing** is the process of evaluating a software application to identify defects and verify that it satisfies specified requirements.
+
+### Objectives of Software Testing
+- Detect defects and bugs
+- Ensure functionality works as expected
+- Validate business and user requirements
+- Improve software quality and reliability
+
+---
+
+
 ## 👤 Author
 
 **Pooja**
