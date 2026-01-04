@@ -119,6 +119,27 @@ Priority defines how urgently a defect should be fixed.
 
 ---
 
+## 🐞 Bug Life Cycle
+
+The Bug Life Cycle represents the different states a defect goes through during its lifetime.
+
+### Bug Life Cycle Stages
+- **New** – Bug is reported
+- **Assigned** – Assigned to developer
+- **Open** – Developer starts fixing
+- **Fixed** – Bug is fixed
+- **Retest** – Tester retests the bug
+- **Verified** – Bug fix is confirmed
+- **Closed** – Bug is closed
+
+### Additional States
+- Reopened
+- Rejected
+- Deferred
+- Duplicate
+
+---
+
 
 
 ## 👤 Author
