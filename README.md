@@ -99,6 +99,26 @@ Defines the testing process and activities.
 
 ---
 
+## ⚖️ Severity vs Priority
+
+### Severity
+Severity defines the impact of a defect on the system.
+
+### Priority
+Priority defines how urgently a defect should be fixed.
+
+| Severity | Priority |
+|--------|---------|
+| Impact on system | Order of fixing |
+| Technical aspect | Business aspect |
+| Set by tester | Set by manager/client |
+
+**Examples:**
+- Login not working → High Severity, High Priority  
+- UI spelling mistake → Low Severity, Low Priority  
+
+---
+
 
 
 ## 👤 Author
