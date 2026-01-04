@@ -37,6 +37,52 @@ Software Testing is a fundamental process in software development that ensures a
 
 ---
 
+## ❓ Why Testing is Needed?
+
+Testing is required to ensure a stable and high-quality product.
+
+### Importance of Software Testing
+- Early detection of defects reduces cost
+- Ensures software quality and performance
+- Prevents failures after release
+- Improves customer satisfaction
+- Protects business reputation
+
+---
+
+## 🔄 SDLC vs STLC
+
+### SDLC (Software Development Life Cycle)
+Defines the overall software development process.
+
+**Phases:**
+- Requirement Analysis
+- Design
+- Development
+- Testing
+- Deployment
+- Maintenance
+
+### STLC (Software Testing Life Cycle)
+Defines the testing process and activities.
+
+**Phases:**
+- Requirement Analysis
+- Test Planning
+- Test Case Design
+- Test Environment Setup
+- Test Execution
+- Test Cycle Closure
+
+### Difference Between SDLC and STLC
+
+| SDLC | STLC |
+|-----|-----|
+| Focuses on development | Focuses on testing |
+| Performed by developers | Performed by testers |
+| Produces the software | Ensures software quality |
+
+---
 
 ## 👤 Author
 
