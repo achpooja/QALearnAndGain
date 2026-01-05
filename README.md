@@ -264,6 +264,21 @@ Manual testing involves executing test cases without using automation tools. It 
 
 ---
 
+## 📌 Summary
+
+| Testing Type | Purpose |
+|-------------|--------|
+| Smoke Testing | Verify basic build stability |
+| Sanity Testing | Validate specific changes |
+| Regression Testing | Ensure existing features work |
+| Functional Testing | Validate business requirements |
+| UI Testing | Check visual elements |
+| Usability Testing | Improve user experience |
+| Compatibility Testing | Ensure cross-platform support |
+
+---
+
+
 
 ## 👤 Author
 
