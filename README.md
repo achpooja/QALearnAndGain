@@ -180,6 +180,23 @@ Manual testing involves executing test cases without using automation tools. It 
 
 ---
 
+## 🔁 Regression Testing
+
+**Regression Testing** ensures that **existing functionalities continue to work** after new changes, enhancements, or bug fixes.
+
+### Purpose
+- Detect side effects of new changes
+- Maintain application stability
+
+### When to Use
+- After new features are added
+- After bug fixes or code changes
+
+### Example
+- Testing checkout flow after updating payment functionality
+
+---
+
 
 ## 👤 Author
 
