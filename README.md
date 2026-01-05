@@ -230,6 +230,40 @@ Manual testing involves executing test cases without using automation tools. It 
 
 ---
 
+## 🧠 Usability Testing
+
+**Usability Testing** evaluates how **easy and user-friendly** the application is for end users.
+
+### Purpose
+- Improve user experience
+- Identify navigation or design issues
+
+### When to Use
+- Before final release
+- During UX improvement cycles
+
+### Example
+- Checking if a user can complete a task without guidance
+
+---
+
+## 🌐 Compatibility Testing
+
+**Compatibility Testing** ensures the application works correctly across **different browsers, devices, operating systems, and screen resolutions**.
+
+### Purpose
+- Ensure consistent behavior in various environments
+- Identify environment-specific issues
+
+### When to Use
+- Before production release
+- After major UI or platform changes
+
+### Example
+- Testing a website on Chrome, Firefox, Edge, and mobile devices
+
+---
+
 
 ## 👤 Author
 
