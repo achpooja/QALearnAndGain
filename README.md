@@ -139,7 +139,30 @@ The Bug Life Cycle represents the different states a defect goes through during 
 - Duplicate
 
 ---
+ 
+## 2. 🔹 Testing Types (Manual Focus)
 
+Manual testing involves executing test cases without using automation tools. It helps testers understand the application behavior from an end-user perspective and is essential for validating functionality, usability, and overall user experience.
+
+---
+
+## 🚀 Smoke Testing
+
+**Smoke Testing** is a preliminary testing performed to verify that the **basic and critical functionalities** of an application are working.
+
+### Purpose
+- Ensure the build is stable enough for further testing
+- Detect major issues at an early stage
+
+### When to Use
+- After a new build is received
+- Before detailed testing begins
+
+### Example
+- Application launches successfully
+- User can log in with valid credentials
+
+---
 
 
 ## 👤 Author
