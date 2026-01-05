@@ -164,6 +164,22 @@ Manual testing involves executing test cases without using automation tools. It 
 
 ---
 
+## 🔧 Sanity Testing
+
+**Sanity Testing** is a focused testing performed to verify that **specific functionalities or bug fixes** are working as expected.
+
+### Purpose
+- Confirm that recent changes did not break related functionality
+- Decide whether to proceed with deeper testing
+
+### When to Use
+- After minor code changes or bug fixes
+
+### Example
+- Verifying a fixed login issue without testing the entire application
+
+---
+
 
 ## 👤 Author
 
