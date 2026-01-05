@@ -197,6 +197,39 @@ Manual testing involves executing test cases without using automation tools. It 
 
 ---
 
+## ⚙️ Functional Testing
+
+**Functional Testing** verifies that each feature of the application works according to the **functional requirements**.
+
+### Purpose
+- Validate business logic and workflows
+- Ensure correct system behavior
+
+### When to Use
+- During all testing phases
+
+### Example
+- Testing login, registration, search, and payment features
+
+---
+
+## 🎨 UI Testing
+
+**UI (User Interface) Testing** checks the **visual elements** of an application to ensure consistency and correctness.
+
+### Purpose
+- Ensure proper layout and alignment
+- Verify fonts, colors, buttons, and images
+
+### When to Use
+- After UI changes
+- Before release
+
+### Example
+- Checking button alignment and text readability
+
+---
+
 
 ## 👤 Author
 
