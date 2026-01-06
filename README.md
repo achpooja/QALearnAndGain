@@ -53,7 +53,7 @@ Testing is required to ensure a stable and high-quality product.
 ## 🔄 SDLC vs STLC
 
 ### SDLC (Software Development Life Cycle)
-Defines the overall software development process.
+Defines the overall software development process from requirement gathering to product deleivery.
 
 **Phases:**
 - Requirement Analysis
