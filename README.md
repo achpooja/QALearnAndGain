@@ -71,7 +71,8 @@ Defines the testing process and activities.
 - Test Planning
 - Test Case Design
 - Test Environment Setup
-
+- Test Execution
+- Test Cycle Closure
 
 ### Difference Between SDLC and STLC
 
