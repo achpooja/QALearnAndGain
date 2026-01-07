@@ -20,3 +20,23 @@ Decision Table Testing – Tests combinations of conditions
 Error Guessing – Based on tester’s experience to find defects
 
 Example: Testing login with valid and invalid credentials.
+
+2. White Box Testing
+
+Definition:
+Testing the software with full knowledge of the internal code, logic, and structure.
+
+Key Points:
+Focuses on code, loops, conditions, and paths
+Requires programming knowledge
+Helps find hidden errors and optimize code
+
+Types of White Box Testing:
+Unit Testing – Tests individual functions or modules
+Integration Testing – Checks interaction between modules
+Statement Coverage – Ensures every code line executes at least once
+Branch Coverage – Tests all possible decision branches
+Path Coverage – Tests all possible execution paths
+Mutation Testing – Introduces small code changes to check test effectiveness
+
+Example: Testing all if-else conditions in a function.
