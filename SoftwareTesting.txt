@@ -1,0 +1,22 @@
+Testing Techniques:
+Software testing techniques are methods used to design test cases and ensure the software works correctly. The main types are Black Box, White Box, and Grey Box Testing.
+
+1. Black Box Testing
+
+Definition:
+Testing the software without knowing its internal code or structure. Focus is on inputs and outputs.
+
+Key Points:
+Functional testing only
+Testers don’t need programming knowledge
+Validates software behavior according to requirements
+
+Types of Black Box Testing:
+Functional Testing – Tests individual features (e.g., login, search)
+Non-Functional Testing – Performance, usability, security, etc.
+Boundary Value Testing – Tests boundary conditions (min/max input)
+Equivalence Partitioning – Groups inputs with similar behavior
+Decision Table Testing – Tests combinations of conditions
+Error Guessing – Based on tester’s experience to find defects
+
+Example: Testing login with valid and invalid credentials.
