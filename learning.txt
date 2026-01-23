@@ -8,7 +8,7 @@ I also found out some errors, bugs in this version1.
 I will log them and create bug reoprt tomorrow.
 Will explore the version2 also and see if the bugs are fixed or not.
 
-Today 9th of january
+
 
  
 
