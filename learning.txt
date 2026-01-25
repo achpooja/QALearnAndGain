@@ -6,7 +6,9 @@ I desgined the test cases for the New Customer module in the base of version1.
 I also execute the test cases that i designed and explored the expected and actual outcome.
 I also found out some errors, bugs in this version1.
 
+Today 25th january
 
+I explored the Jira tools and observed how the work is done not full but little bit of concept i got by exploring by myself
 
 
  
