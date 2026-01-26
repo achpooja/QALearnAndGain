@@ -41,20 +41,3 @@ Mutation Testing – Introduces small code changes to check test effectiveness
 
 Example: Testing all if-else conditions in a function.
 
-3. Grey Box Testing
-
-Definition:
-A combination of Black Box and White Box Testing. Testers have partial knowledge of internal code but test mainly from a functional perspective.
-
-Key Points:
-Focuses on both functional behavior and internal structure
-Moderate programming knowledge required
-Useful for integration and security testing
-
-Types of Grey Box Testing:
-Matrix Testing – Verifies interaction between modules using a design matrix
-Regression Testing – Ensures new changes don’t break existing functionality
-Pattern Testing – Uses internal knowledge to focus on critical paths
-Orthogonal Array Testing – Efficiently tests multiple input combination
-
-Example: Testing a web application while knowing the database structure to verify data flow.
