@@ -19,7 +19,6 @@ Equivalence Partitioning – Groups inputs with similar behavior
 Decision Table Testing – Tests combinations of conditions
 Error Guessing – Based on tester’s experience to find defects
 
-Example: Testing login with valid and invalid credentials.
 
 2. White Box Testing
 
