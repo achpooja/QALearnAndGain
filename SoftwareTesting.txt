@@ -39,5 +39,5 @@ Branch Coverage – Tests all possible decision branches
 Path Coverage – Tests all possible execution paths
 Mutation Testing – Introduces small code changes to check test effectiveness
 
-Example: Testing all if-else conditions in a function.
+
 
