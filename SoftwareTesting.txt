@@ -1,5 +1,5 @@
 Testing Techniques:
-Software testing techniques are methods used to design test cases and ensure the software works correctly. The main types are Black Box, White Box, and Grey Box Testing.
+Software testing techniques are methods used to design test cases and ensure the software works correctly.
 
 1. Black Box Testing
 
