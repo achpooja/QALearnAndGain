@@ -14,6 +14,7 @@ Today 28th january
 Today i explored the theory of the QA
 Tomorrow i will do some practical like creating test cases,logging bug in jira, bug repote generate and all
 
+Today 29th january
 
  
 
