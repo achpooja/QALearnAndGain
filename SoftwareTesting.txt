@@ -36,7 +36,7 @@ Integration Testing – Checks interaction between modules
 Statement Coverage – Ensures every code line executes at least once
 Branch Coverage – Tests all possible decision branches
 Path Coverage – Tests all possible execution paths
-Mutation Testing – Introduces small code changes to check test effectiveness
+
 
 
 
