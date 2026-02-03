@@ -17,7 +17,7 @@ Non-Functional Testing – Performance, usability, security, etc.
 Boundary Value Testing – Tests boundary conditions (min/max input)
 Equivalence Partitioning – Groups inputs with similar behavior
 Decision Table Testing – Tests combinations of conditions
-Error Guessing – Based on tester’s experience to find defects
+
 
 
 2. White Box Testing
