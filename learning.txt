@@ -4,7 +4,7 @@ so today i explored the SRS document of the demo web of banking given by the gur
 I explored the version 1 of this banking web.
 I desgined the test cases for the New Customer module in the base of version1.
 I also execute the test cases that i designed and explored the expected and actual outcome.
-I also found out some errors, bugs in this version1.
+
 
 
 
