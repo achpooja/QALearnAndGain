@@ -33,8 +33,7 @@ Helps find hidden errors and optimize code
 Types of White Box Testing:
 Unit Testing – Tests individual functions or modules
 Integration Testing – Checks interaction between modules
-Statement Coverage – Ensures every code line executes at least once
-Branch Coverage – Tests all possible decision branches
+
 
 
 
