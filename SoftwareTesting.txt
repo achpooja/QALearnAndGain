@@ -27,8 +27,7 @@ Testing the software with full knowledge of the internal code, logic, and struct
 
 Key Points:
 Focuses on code, loops, conditions, and paths
-Requires programming knowledge
-Helps find hidden errors and optimize code
+
 
 
 
