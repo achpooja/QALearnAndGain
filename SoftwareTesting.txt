@@ -30,9 +30,6 @@ Focuses on code, loops, conditions, and paths
 Requires programming knowledge
 Helps find hidden errors and optimize code
 
-Types of White Box Testing:
-Unit Testing – Tests individual functions or modules
-Integration Testing – Checks interaction between modules
 
 
 
