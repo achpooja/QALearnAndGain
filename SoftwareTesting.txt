@@ -25,8 +25,7 @@ Decision Table Testing – Tests combinations of conditions
 Definition:
 Testing the software with full knowledge of the internal code, logic, and structure.
 
-Key Points:
-Focuses on code, loops, conditions, and paths
+
 
 
 
