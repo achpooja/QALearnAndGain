@@ -20,8 +20,6 @@ Decision Table Testing – Tests combinations of conditions
 
 
 
-2. White Box Testing
-
 
 
 
