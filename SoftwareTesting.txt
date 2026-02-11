@@ -22,8 +22,7 @@ Decision Table Testing – Tests combinations of conditions
 
 2. White Box Testing
 
-Definition:
-Testing the software with full knowledge of the internal code, logic, and structure.
+
 
 
 
