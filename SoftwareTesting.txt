@@ -15,8 +15,7 @@ Types of Black Box Testing:
 Functional Testing – Tests individual features (e.g., login, search)
 Non-Functional Testing – Performance, usability, security, etc.
 Boundary Value Testing – Tests boundary conditions (min/max input)
-Equivalence Partitioning – Groups inputs with similar behavior
-Decision Table Testing – Tests combinations of conditions
+
 
 
 
