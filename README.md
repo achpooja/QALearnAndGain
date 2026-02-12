@@ -1,288 +1,116 @@
-# QALearnAndGain
+# 🧪 QA Practice Project – Guru99 Demo Banking Application
 
-Welcome to **QALearnAndGain** - A comprehensive repository dedicated to Quality Assurance learning and practice materials.
+## 📌 Project Overview
+This repository contains my QA practice work based on the **Guru99 Demo Banking Application**.  
+The objective of this project is to practice manual testing concepts including:
 
-## 📖 About
+- Requirement analysis
+- Test case design
+- Test execution
+- Defect reporting
+- Exploratory testing
 
-This repository contains all the learning tutorials, resources, and practical exercises related to Quality Assurance (QA) that I have practiced and compiled. It serves as a knowledge base for both beginners and experienced QA professionals looking to enhance their testing skills.
-
-
-## 🎯 Purpose
-
-The main objectives of this repository are to:
-- Document the QA learning journey and best practices
-- Share practical tutorials and hands-on exercises
-- Provide resources for various QA tools and technologies
-- Build a reference guide for testing methodologies
-- Help others learn and grow in the QA field
-
-
-# 🎯 Topics
-
-## 1. 🧪 Software Testing Basics
-
-Software Testing is a fundamental process in software development that ensures an application meets its requirements and works as expected. It helps in delivering high-quality, reliable, and secure software.
+Reference: Guru99 Software Testing Tutorial  
+Application Under Test: Guru99 Demo Banking Website  
 
 ---
 
-## 📌 What is Software Testing?
+## 📄 Requirement Analysis
 
-**Software Testing** is the process of evaluating a software application to identify defects and verify that it satisfies specified requirements.
+Based on the provided SRS document, test cases were created for the following modules:
 
-### Objectives of Software Testing
-- Detect defects and bugs
-- Ensure functionality works as expected
-- Validate business and user requirements
-- Improve software quality and reliability
-
----
-
-## ❓ Why Testing is Needed?
-
-Testing is required to ensure a stable and high-quality product.
-
-### Importance of Software Testing
-- Early detection of defects reduces cost
-- Ensures software quality and performance
-- Prevents failures after release
-- Improves customer satisfaction
-- Protects business reputation
+- ✅ New Customer – Creating customer profiles  
+- ✅ Edit Customer – Modifying customer information  
+- ✅ New Account – Opening bank accounts  
+- ✅ Edit Account – Updating account details  
+- ✅ Delete Account – Account closure functionality  
+- ✅ Delete Customer – Removing customer records  
+- ✅ Mini Statement – Quick transaction summaries  
+- ✅ Customized Statement – Detailed account reports  
 
 ---
 
-## 🔄 SDLC vs STLC
+## 📝 Test Case Design
 
-### SDLC (Software Development Life Cycle)
-Defines the overall software development process from requirement gathering to product deleivery.
-
-**Phases:**
-- Requirement Analysis
-- Design
-- Development
-- Testing
-- Deployment
-- Maintenance
-
-### STLC (Software Testing Life Cycle)
-Defines the testing process and activities.
-
-**Phases:**
-- Requirement Analysis
-- Test Planning
-- Test Case Design
-- Test Environment Setup
-- Test Execution
-- Test Cycle Closure
-
-### Difference Between SDLC and STLC
-
-| SDLC | STLC |
-|-----|-----|
-| Focuses on development | Focuses on testing |
-| Performed by developers | Performed by testers |
-| Produces the software | Ensures software quality |
+- Designed detailed test cases for all modules.
+- Covered both positive and negative scenarios.
+- Included field validations and boundary conditions.
+- Structured test cases with:
+  - Test Case ID
+  - Module Name
+  - Preconditions
+  - Test Steps
+  - Expected Result
+  - Actual Result
+  - Status (Pass/Fail)
 
 ---
 
-## ✅ Verification vs Validation
+# 🔹 Version 1.0
 
-| Verification | Validation |
-|-------------|-----------|
-| Are we building the product right? | Are we building the right product? |
-| Static testing | Dynamic testing |
-| No code execution | Code execution required |
-| Reviews and inspections | Functional and system testing |
+## ▶️ Test Execution Summary
 
-**Example:**
-- Verification: Reviewing requirement documents  
-- Validation: Testing the actual application  
+### Executed Module:
+- ✔ New Customer Module
 
----
+Activities performed:
+- Executed all created test cases for the New Customer functionality.
+- Compared actual results with expected results as per SRS.
+- Identified defects during execution.
 
-## ⚖️ Severity vs Priority
-
-### Severity
-Severity defines the impact of a defect on the system.
-
-### Priority
-Priority defines how urgently a defect should be fixed.
-
-| Severity | Priority |
-|--------|---------|
-| Impact on system | Order of fixing |
-| Technical aspect | Business aspect |
-| Set by tester | Set by manager/client |
-
-**Examples:**
-- Login not working → High Severity, High Priority  
-- UI spelling mistake → Low Severity, Low Priority  
+### 🐞 Defect Management
+- Documented bugs found during execution.
+- Included:
+  - Steps to reproduce
+  - Expected Result
+  - Actual Result
+  - Severity Level
+  - Status
 
 ---
 
-## 🐞 Bug Life Cycle
+## 🔍 Exploratory Testing
 
-The Bug Life Cycle represents the different states a defect goes through during its lifetime.
+Due to integration issues in the application, full test case execution could not be completed for the following modules:
 
-### Bug Life Cycle Stages
-- **New** – Bug is reported
-- **Assigned** – Assigned to developer
-- **Open** – Developer starts fixing
-- **Fixed** – Bug is fixed
-- **Retest** – Tester retests the bug
-- **Verified** – Bug fix is confirmed
-- **Closed** – Bug is closed
+- Edit Customer  
+- New Account  
+- Edit Account  
+- Delete Account  
+- Delete Customer  
+- Mini Statement  
+- Customized Statement  
 
-### Additional States
-- Reopened
-- Rejected
-- Deferred
-- Duplicate
-
----
- 
-## 2. 🔹 Testing Types (Manual Focus)
-
-Manual testing involves executing test cases without using automation tools. It helps testers understand the application behavior from an end-user perspective and is essential for validating functionality, usability, and overall user experience.
+Instead:
+- Conducted exploratory testing.
+- Verified core functionality manually.
+- Observed system behavior and noted inconsistencies where applicable.
 
 ---
 
-## 🚀 Smoke Testing
+## ⚠️ Challenges Faced
 
-**Smoke Testing** is a preliminary testing performed to verify that the **basic and critical functionalities** of an application are working.
-
-### Purpose
-- Ensure the build is stable enough for further testing
-- Detect major issues at an early stage
-
-### When to Use
-- After a new build is received
-- Before detailed testing begins
-
-### Example
-- Application launches successfully
-- User can log in with valid credentials
+- Integration issues between modules.
+- Dependency-related functionality blocking full execution.
+- Limited environment stability.
 
 ---
 
-## 🔧 Sanity Testing
+## 📈 Skills Practiced
 
-**Sanity Testing** is a focused testing performed to verify that **specific functionalities or bug fixes** are working as expected.
-
-### Purpose
-- Confirm that recent changes did not break related functionality
-- Decide whether to proceed with deeper testing
-
-### When to Use
-- After minor code changes or bug fixes
-
-### Example
-- Verifying a fixed login issue without testing the entire application
+- Requirement Analysis (SRS understanding)
+- Test Case Writing
+- Manual Test Execution
+- Defect Identification & Documentation
+- Exploratory Testing
+- Version-based testing documentation
 
 ---
-
-## 🔁 Regression Testing
-
-**Regression Testing** ensures that **existing functionalities continue to work** after new changes, enhancements, or bug fixes.
-
-### Purpose
-- Detect side effects of new changes
-- Maintain application stability
-
-### When to Use
-- After new features are added
-- After bug fixes or code changes
-
-### Example
-- Testing checkout flow after updating payment functionality
-
----
-
-## ⚙️ Functional Testing
-
-**Functional Testing** verifies that each feature of the application works according to the **functional requirements**.
-
-### Purpose
-- Validate business logic and workflows
-- Ensure correct system behavior
-
-### When to Use
-- During all testing phases
-
-### Example
-- Testing login, registration, search, and payment features
-
----
-
-## 🎨 UI Testing
-
-**UI (User Interface) Testing** checks the **visual elements** of an application to ensure consistency and correctness.
-
-### Purpose
-- Ensure proper layout and alignment
-- Verify fonts, colors, buttons, and images
-
-### When to Use
-- After UI changes
-- Before release
-
-### Example
-- Checking button alignment and text readability
-
----
-
-## 🧠 Usability Testing
-
-**Usability Testing** evaluates how **easy and user-friendly** the application is for end users.
-
-### Purpose
-- Improve user experience
-- Identify navigation or design issues
-
-### When to Use
-- Before final release
-- During UX improvement cycles
-
-### Example
-- Checking if a user can complete a task without guidance
-
----
-
-## 🌐 Compatibility Testing
-
-**Compatibility Testing** ensures the application works correctly across **different browsers, devices, operating systems, and screen resolutions**.
-
-### Purpose
-- Ensure consistent behavior in various environments
-- Identify environment-specific issues
-
-### When to Use
-- Before production release
-- After major UI or platform changes
-
-### Example
-- Testing a website on Chrome, Firefox, Edge, and mobile devices
-
----
-
-## 📌 Summary
-
-| Testing Type | Purpose |
-|-------------|--------|
-| Smoke Testing | Verify basic build stability |
-| Sanity Testing | Validate specific changes |
-| Regression Testing | Ensure existing features work |
-| Functional Testing | Validate business requirements |
-| UI Testing | Check visual elements |
-| Usability Testing | Improve user experience |
-| Compatibility Testing | Ensure cross-platform support |
-
----
-
-
 
 ## 👤 Author
 
 **Pooja**
+Manual Testing Learner
 - GitHub: [@achpooja](https://github.com/achpooja)
 
 ## 📝 License
