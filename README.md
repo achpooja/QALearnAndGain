@@ -62,10 +62,13 @@ Activities performed:
 ### 🐞 Defect Management
 - Documented bugs found during execution.
 - Included:
+  - Bug ID
+  - Title
   - Steps to reproduce
   - Expected Result
   - Actual Result
   - Severity Level
+  - Priority
   - Status
 
 ---
@@ -110,8 +113,7 @@ Instead:
 
 ## 👤 Author
 
-**Pooja**
-Manual Testing Learner
+**Manual Testing Learner Pooja**
 - GitHub: [@achpooja](https://github.com/achpooja)
 
 ## 📝 License
