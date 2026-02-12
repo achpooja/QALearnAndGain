@@ -36,10 +36,11 @@ Based on the provided SRS document, test cases were created for the following mo
 - Covered both positive and negative scenarios.
 - Included field validations and boundary conditions.
 - Structured test cases with:
+  - Test Scenario
   - Test Case ID
-  - Module Name
-  - Preconditions
+  - Test Case Description
   - Test Steps
+  - Test Data
   - Expected Result
   - Actual Result
   - Status (Pass/Fail)
