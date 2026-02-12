@@ -113,7 +113,7 @@ Instead:
 
 ## 👤 Author
 
-**Manual Testing Learner Pooja**
+Manual Testing Learner **Pooja**
 - GitHub: [@achpooja](https://github.com/achpooja)
 
 ## 📝 License
