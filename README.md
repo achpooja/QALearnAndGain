@@ -172,4 +172,4 @@ Thanks to the QA community for continuous learning and knowledge sharing!
 
 ---
 
-*Happy Learning and Testing!* 🧪✨
+*Happy Learning and Testing!*✨
