@@ -1,4 +1,4 @@
-# 🧪 QA Practice Project – Guru99 Demo Banking Application
+# QA Practice Project – Guru99 Demo Banking Application
 
 ## 📌 Project Overview
 This repository contains my QA practice work based on the **Guru99 Demo Banking Application**.  
