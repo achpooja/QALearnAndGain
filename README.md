@@ -110,6 +110,52 @@ Instead:
 - Version-based testing documentation
 
 ---
+# 🔹 Version 2.0
+
+## ▶️ Regression Testing
+
+After the release of Version 2.0, regression testing was performed to ensure that previously implemented features were not affected by recent changes or fixes.So Regression Tessting was done in New Customer.
+
+### Regression Scope:
+- New Customer
+
+Activities performed:
+- Re-executed previously passed test cases.
+- Verified system stability.
+- Ensured core functionalities were not impacted.
+
+---
+
+## 🔁 Defect Retesting
+
+Test cases that previously failed in Version 1.0 were re-executed in Version 2.0.
+
+Activities performed:
+- Verified bug fixes.
+- Compared actual results with expected results.
+<!-- - Updated defect status (Closed/Reopened). -->
+
+---
+
+## 🔍 Testing Type Clarification
+
+In Version 1.0:
+- Formal test case execution was completed for the New Customer module.
+- For other modules, exploratory testing was performed due to integration issues.
+
+In Version 2.0:
+- Regression testing was conducted.
+- Defect retesting was completed.
+
+---
+
+## 📊 Version 2.0 Outcome Summary
+
+- Regression test cases executed: For New Customer Module
+- Defects retested
+<!-- - Defects closed: [Add Number]
+- Defects reopened (if any): [Add Number] -->
+
 
 ## 👤 Author
 
