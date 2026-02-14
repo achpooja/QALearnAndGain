@@ -162,11 +162,11 @@ In Version 2.0:
 Manual Testing Learner **Pooja**
 - GitHub: [@achpooja](https://github.com/achpooja)
 
-<!-- ## 📝 License
+## 📝 License
 
 This repository is maintained for educational purposes. Feel free to use the content for learning and reference.
 
-## 🌟 Acknowledgments
+<!-- ## 🌟 Acknowledgments
 
 Thanks to the QA community for continuous learning and knowledge sharing!
 
