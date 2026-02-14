@@ -166,10 +166,10 @@ Manual Testing Learner **Pooja**
 
 This repository is maintained for educational purposes. Feel free to use the content for learning and reference.
 
-<!-- ## 🌟 Acknowledgments
+## 🌟 Acknowledgments
 
 Thanks to the QA community for continuous learning and knowledge sharing!
 
 ---
 
-*Happy Learning and Testing!*✨ -->
+*Happy Learning and Testing!*✨
