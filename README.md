@@ -153,11 +153,11 @@ In Version 2.0:
 
 - Regression test cases executed: For New Customer Module
 - Defects retested
-<!-- - Defects closed: [Add Number]
-- Defects reopened (if any): [Add Number] -->
 
 
-## 👤 Author
+
+
+<!-- ## 👤 Author
 
 Manual Testing Learner **Pooja**
 - GitHub: [@achpooja](https://github.com/achpooja)
@@ -172,4 +172,4 @@ Thanks to the QA community for continuous learning and knowledge sharing!
 
 ---
 
-*Happy Learning and Testing!*✨
+*Happy Learning and Testing!*✨ -->
