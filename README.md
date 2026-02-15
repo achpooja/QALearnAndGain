@@ -155,7 +155,6 @@ In Version 2.0:
 - Defects retested
 
 
-
 ## 👤 Author
 
 Manual Testing Learner **Pooja**
