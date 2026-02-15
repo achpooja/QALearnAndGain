@@ -154,7 +154,6 @@ In Version 2.0:
 - Regression test cases executed: For New Customer Module
 - Defects retested
 
-
 ## 👤 Author
 
 Manual Testing Learner **Pooja**
