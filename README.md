@@ -10,8 +10,8 @@ The objective of this project is to practice manual testing concepts including:
 - Defect reporting
 - Exploratory testing
 
-<!-- Reference: Guru99 Software Testing Tutorial  
-Application Under Test: Guru99 Demo Banking Website   -->
+Reference: Guru99 Software Testing Tutorial  
+Application Under Test: Guru99 Demo Banking Website  
 
 ---
 
