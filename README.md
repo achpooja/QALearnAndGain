@@ -164,7 +164,4 @@ Manual Testing Learner **Pooja**
 
 This repository is maintained for educational purposes. Feel free to use the content for learning and reference.
 
-## 🌟 Acknowledgments
-
-
 *Happy Learning and Testing!*✨
