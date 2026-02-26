@@ -151,8 +151,8 @@ In Version 2.0:
 
 ## 📊 Version 2.0 Outcome Summary
 
-<!-- - Regression test cases executed: For New Customer Module
-- Defects retested -->
+- Regression test cases executed: For New Customer Module
+- Defects retested
 
 ---
 ## 👤 Author
