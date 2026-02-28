@@ -1,8 +1,8 @@
 # QA Practice Project – Guru99 Demo Banking App
 
 ## 📌 Project Overview
-This repository contains my QA practice work based on the **Guru99 Demo Banking Application**.  
-The objective of this project is to practice manual testing concepts including:
+<!-- This repository contains my QA practice work based on the **Guru99 Demo Banking Application**.  
+The objective of this project is to practice manual testing concepts including: -->
 
 - Requirement analysis
 - Test case design
