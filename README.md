@@ -85,12 +85,12 @@ Due to integration issues in the application, full test case execution could not
 - Mini Statement  
 - Customized Statement  
 
-<!-- Instead:
+Instead:
 - Conducted exploratory testing.
 - Verified core functionality manually.
 - Observed system behavior and noted inconsistencies where applicable.
 
---- -->
+---
 
 ## ⚠️ Challenges Faced
 
