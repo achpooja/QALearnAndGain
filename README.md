@@ -42,8 +42,8 @@ Based on the provided SRS document, test cases were created for the following mo
   - Test Steps
   - Test Data
   - Expected Result
-  <!-- - Actual Result
-  - Status (Pass/Fail) -->
+  - Actual Result
+  - Status (Pass/Fail)
 
 ---
 
