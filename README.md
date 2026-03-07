@@ -4,11 +4,11 @@
 This repository contains my QA practice work based on the **Guru99 Demo Banking Application**.  
 The objective of this project is to practice manual testing concepts including:
 
-<!-- - Requirement analysis
+- Requirement analysis
 - Test case design
 - Test execution
 - Defect reporting
-- Exploratory testing -->
+- Exploratory testing
 
 Reference: Guru99 Software Testing Tutorial  
 Application Under Test: Guru99 Demo Banking Website  
